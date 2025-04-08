@@ -1,0 +1,4 @@
+Sun Mar 30 05:38:34 AM UTC 2025: ERROR - El directorio archivos_respaldo no existe.
+Sun Mar 30 05:41:56 AM UTC 2025: Iniciando respaldo...
+Completed 222 Bytes/222 Bytes (65 Bytes/s) with 1 file(s) remainingupload: ./backup_2025-03-30.tar.gz to s3://act2devops/backup_2025-03-30.tar.gz
+Sun Mar 30 05:42:01 AM UTC 2025: Respaldo subido exitosamente a S3.
